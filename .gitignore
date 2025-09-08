@@ -100,3 +100,7 @@ InitTestScene*.unity*
 
 # Mac
 .DS_Store
+
+.idea/
+.vscode/
+.vsconfig
