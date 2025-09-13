@@ -1,5 +1,12 @@
+## Project
+summary-unity-drawing-a-long-note-in-music-game
+How to draw a smooth long note in music game at unity engine.
+
 ## Topic
 https://w8grrsutrc.feishu.cn/record/G4gLr83wTenIuOcIXjfcBkp8nvc
+
+## Environment
+- Unity 2022.3.55f1
 
 ### Lane & Time
 在下落式音游玩法中，需要先定义下落轨道（Lane），与判定时间（Time）概念。
@@ -36,3 +43,5 @@ Tutorial Video: https://www.youtube.com/watch?v=Q12sb-sOhdI
     - 慢速条件下，曲线中间部分会明显有凹凸感。
 - 如何绘制头尾被扣掉？
 - 如何绘制尾部类似 ES2？
+
+
